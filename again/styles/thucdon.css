@@ -1,0 +1,63 @@
+*{margin:auto;}
+.tong{
+	background:#FBFAEA;
+	width:1100px;
+	height:500px;
+}
+.menu ul li{
+	display: inline;
+	padding:60px;
+}
+.menu ul li{
+	text-decoration: none;
+	color:white;
+}
+.menu ul li{
+	padding-top:40px;
+}
+.menu{
+	padding-left:50px;
+}
+.menu ul li a:hover{
+	color: #FFE400;
+}
+.menu ul li a{
+	text-decoration: none;
+	color:white;
+}
+.menu{
+	background:#D94141;
+	height:40px;
+}
+.food ul li{
+	display: inline;
+	padding:20px;
+}
+.food ul li{
+	text-decoration: none;
+	color:black;
+}
+.food ul li{
+	padding-top:40px;
+}
+.food{
+	padding-left:10px;
+}
+.food ul li a:hover{
+	color: #FFE400;
+}
+.food ul li a{
+	text-decoration: none;
+	color:white;
+}
+.food ul li {
+	float:left;
+}
+.food ul li{
+	padding-right:40px;
+}
+
+
+
+
+
